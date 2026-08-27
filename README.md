@@ -18,3 +18,8 @@ Use the creat_emmbedings.py file to convert the JSON files into a DataFrame with
 
 Step 5 — Prompt Generation and Feeding to LLM
 Read the Joblib file and load it into memory. Then create a relevant prompt according to the user's query and feed it to the LLM.
+
+
+# Output
+
+![(image)](https://github.com/faizanalam06/RAG-Ai-Teaching-Assistant/blob/5df1b69fa72c664910cbc10e1fe3dd7ab02cb419/output_Img.png)
